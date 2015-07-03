@@ -1,0 +1,79 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "paul.ruane@oniony.com",
+    "longName": "Pictograph",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/9.png",
+                "name": "IMAGE_DIGIT9",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "IMAGE_DIGIT8",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "IMAGE_DIGIT7",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "IMAGE_DIGIT6",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png",
+                "name": "IMAGE_DIGIT5",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png",
+                "name": "IMAGE_DIGIT4",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "IMAGE_DIGIT3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "IMAGE_DIGIT2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "IMAGE_DIGIT1",
+                "type": "png"
+            },
+            {
+                "file": "images/blank.png",
+                "name": "IMAGE_DIGIT_BLANK",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png",
+                "name": "IMAGE_DIGIT0",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pictograph",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "4dcd4fd0-ffa2-44f9-8ab9-a200d68a292c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
